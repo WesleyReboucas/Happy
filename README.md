@@ -52,7 +52,7 @@ $ git clone https://github.com/WesleyReboucas/Happy.git
 
 ```bash
 # Na pasta web
-$ cd Proffy/web
+$ cd Happy/web
 
 # Instalação de depedencias
 $ yarn install
