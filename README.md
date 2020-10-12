@@ -1,5 +1,5 @@
 <p align="center"> 
-	<img src='https://user-images.githubusercontent.com/28845397/90830279-c65da400-e317-11ea-9003-744707bd9ac3.png'/>
+	<img src='https://user-images.githubusercontent.com/28845397/95777411-858d6600-0c9c-11eb-999a-eb7548d04a35.png' />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 O Proffy é um projeto idealizado pela 
 <a href="https://rocketseat.com.br/"> **@Rocketseat** </a> 
-com a intesão de criar uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
+com a intensão de criar uma plataforma que viabiliza a fácil localização de orfanatos pela sua cidade.
 
 ## Layout
 
