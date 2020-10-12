@@ -24,7 +24,7 @@
 
 ## Projeto
 
-O Proffy é um projeto idealizado pela 
+O Happy é um projeto idealizado pela 
 <a href="https://rocketseat.com.br/"> **@Rocketseat** </a> 
 com a intensão de criar uma plataforma que viabiliza a fácil localização de orfanatos pela sua cidade.
 
