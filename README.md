@@ -48,6 +48,20 @@ com a intensão de criar uma plataforma que viabiliza a fácil localização de 
 $ git clone https://github.com/WesleyReboucas/Happy.git
 ```
 
+### API
+
+```bash
+# Na pasta do server
+$ cd Happy/backend
+
+# Instalação de depedencias
+$ yarn install
+
+# Iniciando aplicação
+$ yarn start
+```
+**Acesse:** http://localhost:3333/
+
 ### Web
 
 ```bash
