@@ -31,7 +31,7 @@ com a intensão de criar uma plataforma que viabiliza a fácil localização de 
 ## Layout
 
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-	<img src="./.github/landing.png" width="600px">
+	<img src="./.github/landing.png" width="950px">
   		
 </div>
 
