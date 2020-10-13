@@ -51,7 +51,7 @@ $ git clone https://github.com/WesleyReboucas/Happy.git
 ### API
 
 ```bash
-# Na pasta do server
+# Na pasta do backend
 $ cd Happy/backend
 
 # Instalação de depedencias
