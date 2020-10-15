@@ -40,6 +40,8 @@ com a intensão de criar uma plataforma que viabiliza a fácil localização de 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+- [SQLite3](https://www.sqlite.org/index.html)
 
 
 ## Instalação
@@ -75,6 +77,21 @@ $ yarn install
 $ yarn start
 ```
 **Acesse:** http://localhost:3000/ 
+
+### Mobile 
+
+```bash
+# Na pasta mobile
+$ cd Happy/mobile
+
+# Instalação de depedencias
+$ yarn install
+
+# Iniciando aplicação
+$ yarn start
+```
+ - **Emulador:** Na página abriu no seu browser, clique em Run Emulator
+ - **Smartphone:** Baixe o aplicativo do Expo [ [android](https://play.google.com/store/apps/details?id=host.exp.exponent) | [ios](https://apps.apple.com/br/app/expo-client/id982107779) ] e depois leia o QRCode com sua câmera 
 
 
 ## :bookmark_tabs: Licencia
