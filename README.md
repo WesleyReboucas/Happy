@@ -19,7 +19,7 @@
   <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bookmark_tabs-licencia">Licença</a>
+  <a href="#page_with_curl-licencia">Licença</a>
 </p>
 
 ## Projeto
@@ -94,7 +94,7 @@ $ yarn start
  - **Smartphone:** Baixe o aplicativo do Expo [ [android](https://play.google.com/store/apps/details?id=host.exp.exponent) | [ios](https://apps.apple.com/br/app/expo-client/id982107779) ] e depois leia o QRCode com sua câmera 
 
 
-## :bookmark_tabs: Licencia
+## :page_with_curl: Licencia
 <a href="https://choosealicense.com/licenses/mit/">
 	<img src="https://img.shields.io/static/v1?label=License&message=2020&color=A31F34&style=flat"/>
 </a>
